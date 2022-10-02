@@ -1,2 +1,2 @@
 # ai4medicine-Ceres
-TUM.ai 2022 hackathon submission of our team
+My personal repository based on improving and continuing our work in the TUM.ai makeathon 2022. The [original repo](https://github.com/JamisonProctor/Team-Ceres.git) could be found here.
