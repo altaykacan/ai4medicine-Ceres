@@ -9,7 +9,7 @@ TODO describe the chalenge
 TODO describe what I did and why I created this repo
 
 ## Sources
-[Phase-1 study](https://www.nature.com/articles/s41551-020-00640-6=
+[Phase-1 study](https://www.nature.com/articles/s41551-020-00640-6=)
 
 [LAAD application by the same authors as the phase-1 study](https://www.medrxiv.org/content/10.1101/2021.01.08.21249474v1)
 
