@@ -10,9 +10,15 @@ TODO describe what I did and why I created this repo
 
 ## Sources
 [Phase-1 study](https://www.nature.com/articles/s41551-020-00640-6=)
+
 [LAAD application by the same authors as the phase-1 study](https://www.medrxiv.org/content/10.1101/2021.01.08.21249474v1)
+
 [Repository with LAAD implementation](https://github.com/gireeshkbogu/LAAD)
+
 [LAAD Paper](https://arxiv.org/abs/1607.00148)
+
 [Phase-2 study](https://www.nature.com/articles/s41591-021-01593-2)
+
 [NightSignal Algorithm (finite state machine)](https://github.com/altaykacan/ai4medicine-Ceres-wearable-infection)
+
 [Repository provided by ai4medicine](https://github.com/AI4M-Berlin/TUM_ai)
