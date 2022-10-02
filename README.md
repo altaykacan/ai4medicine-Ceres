@@ -1,4 +1,4 @@
-# ai4medicine-Ceres: Predictive Presymptomatic Disease Detection based on Wearable Data
+# Predictive Presymptomatic Disease Detection based on Wearable Data
 My personal repository based on improving and continuing our work in the TUM.ai makeathon 2022. The original repo where we worked in the 48h could be found [here](https://github.com/JamisonProctor/Team-Ceres). I forked the repos that we based our work on which are also linked below. The novel idea of our team was to combine the finite state machine approach and deep learning based approach of the original authors in an ensamble of the studies cited in the sources.
 
 ## Challenge & Intro
